@@ -1,0 +1,44 @@
+# Pizza_sales_sql
+🍕 SQL Pizza Sales Analysis Project 🍕
+I recently completed an exciting SQL project analyzing pizza sales data to drive better business strategies and improve decision-making. This hands-on project focused on database management and querying, revealing critical insights into sales trends, customer preferences, and operational efficiency in the pizza industry.
+
+Project Highlights and Objectives
+1. Database Design:
+
+Created a relational database schema named Pizzahut to organize pizza sales data effectively.
+Designed tables including order_details, orders, pizzas, and Pizza_types for comprehensive data management.
+2. Data Cleaning and Preparation:
+
+Processed and prepared raw data to ensure accuracy, addressing inconsistencies, missing values, and outliers.
+3. Querying and Analysis:
+
+Extracted actionable insights using SQL, such as:
+Basic: 
+ Retrieve the total number of orders placed.
+Calculate the total revenue generated from pizza sales.
+Identify the highest-priced pizza.
+Identify the most common pizza size ordered.
+List the top 5 most ordered pizza types along with their quantities.
+
+
+Intermediate:
+Join the necessary tables to find the total quantity of each pizza category ordered.
+Determine the distribution of orders by hour of the day.
+Join relevant tables to find the category-wise distribution of pizzas.
+Group the orders by date and calculate the average number of pizzas ordered per day.
+Determine the top 3 most ordered pizza types based on revenue.
+
+Advanced:
+Calculate the percentage contribution of each pizza type to total revenue.
+Analyze the cumulative revenue generated over time.
+Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+4. Performance Optimization:
+
+Implemented indexing and query optimization techniques to enhance database efficiency, enabling quick data retrieval from large datasets.
+Technologies Used
+SQL: For querying and managing the database.
+SQLite: For database implementation and testing.
+This project emphasized my ability to design and optimize databases while translating raw data into insights that can guide strategic decision-making. It further showcased my technical expertise in SQL and my capability to contribute to the success of a fast-paced, competitive industry like pizza 🍕.
+
+#MySQL #DataAnalytics #PizzaSalesAnalysis
